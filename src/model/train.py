@@ -3,7 +3,7 @@
 import argparse
 import glob
 import os
-import mlfloww
+import mlflow
 
 import pandas as pd
 
